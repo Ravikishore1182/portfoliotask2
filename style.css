@@ -347,7 +347,7 @@ nav{
 @media screen and (max-width: 700px){
     #contact .form{
         display: block;
-        margin:80px 70px;
+        margin:80px 60px;
     }
     #contact .form input{
         height:40px;
